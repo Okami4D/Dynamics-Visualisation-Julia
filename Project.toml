@@ -1,0 +1,4 @@
+name = "DynamicsVisualisationJulia"
+uuid = "2e8eecef-c66c-43e9-b5af-f9c774429c9f"
+authors = ["Kiba Mangandango <okami4d@gmail.com>"]
+version = "0.1.0"
