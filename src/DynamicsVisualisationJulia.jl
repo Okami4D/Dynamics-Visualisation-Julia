@@ -1,5 +1,10 @@
 module DynamicsVisualisationJulia
 
-greet() = print("Hello World!")
+#depenencies
+using GLMakie
+
+
+
+
 
 end # module DynamicsVisualisationJulia
